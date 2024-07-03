@@ -7,4 +7,4 @@ destino_favorito="la piscina"
 ultimo_lugar="Quito"
 lugar_a_visitar="Europa"
 
-echo "Mi destino de viaje menos preferido es $destino_favorito, el último lugar que visité fue $ultimo_lugar y me gustaría visitar $lugar_a_visitar tan pronto sea posible"
+echo "Mi destino de viaje menos preferido es $destino_favorito, el último lugar que visité fue $ultimo_lugar y me gustaría visitar $lugar_a_visitar tan pronto como sea posible"
